@@ -1,1 +1,3 @@
-cv toi ?
+4 questions notés sur 16
+- PL/SQL
+note total = note du DS + note du petit contrôle sur les droits et vues
